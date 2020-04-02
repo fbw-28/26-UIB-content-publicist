@@ -1,0 +1,17 @@
+.social-icons {
+    position: relative;
+    margin-right: 15px; 
+    top: 25px;
+    
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-decoration: none;
+}
